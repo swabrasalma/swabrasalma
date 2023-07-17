@@ -2,10 +2,14 @@
 
 ### Software/DevOps/Cloud Engineer
 
-- 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
+- 🔭 I’m currently working on: __Business Analysis & Intelligence, Enterprise Software Solutions & Architecture__
+- 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__
+- 🔭 I’m currently working on: __Python Programming Couch @ Django Girls Kampala & STEM Bootcamp__ 
 - 🌱 I’m currently learning: __AWS, Solidity Programming, DevSecOps__
 - 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
-- 🧧 Arabic name: __صبر__
+- 👯 I’m looking to collaborate on __Python Data Science, Solidity Programming, Networks Development__
+- 🤔 I’m looking for help with __AWS, Solidity Programming, DevSecOps__
+- 🧧 Chinnese name: __色瓦扒蜡__
 - ⚡ Fun fact: I don't eat mmamba, I drink water; hers's not Mmamba Namakaka
 
 <br/>
@@ -35,8 +39,8 @@
 ### Contact me:
 
 <a href="https://twitter.com/swabra20"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/swabra_namayanja/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://www.pinterest.co.uk/swabrakaterega"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/swabra-namayanja-b79227129/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://www.pinterest.com/swabrakaterega/"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
