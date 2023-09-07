@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: __Business Analysis with Enterprise Software Solutions & Architectures__
 - 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__
 - 🔭 I’m currently working on: __Python Programming Couch @ Django Girls Kampala__
-- 🔭 I’m currently working on: __Cirliculum Lead at American Learning center STEM Bootcamp for Young Women__ 
+- 🔭 I’m currently working on: __Cirliculum Lead at Uganda American Learning center STEM Bootcamp for Young Women__ 
 - 🌱 I’m currently learning: __AWS, Solidity Programming, DevSecOps__
 - 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
 - 💬 Ask me about __Business Analysis & Solution design, Digital service Transformation, Stakeholder Engagements in SDLC...__
